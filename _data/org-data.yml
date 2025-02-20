@@ -5,27 +5,27 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Anders Årstrand
-  tagline: Senior Software Test Engineer 
+  name: Alan Doe
+  tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: anders@arstrand.com
-  phone: +46 709 567 165
-  timezone: Europe/Stockholm # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: 
-  website: https://andersarstrand.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
-  linkedin: andersarstrand
-  # xing: alandoe
-  github: andersarstrand
-  # telegram: # add your nickname without '@' sign
-  # gitlab:
-  # bitbucket:
-  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  # twitter: '@jekyllrb'
+  email: example@email.com
+  phone: 012 345 6789
+  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: alandoe
+  xing: alandoe
+  github: jekyll
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,23 +37,29 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: Swedish
+    - idiom: English
       level: Native
 
-    - idiom: English
+    - idiom: French
+      level: Professional
+
+    - idiom: Spanish
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Technology
+    - item: Climbing
       link:
 
-    - item: Cocking
+
+    - item: Snowboarding
       link:
 
-    - item: Mixology
-      link: 
+
+    - item: Cooking
+      link:
+
 
 career-profile:
   title: Career Profile
@@ -64,92 +70,114 @@ career-profile:
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
-
 education:
   title: Education
   info:
-  - degree: Påbyggnads-datautbildning,
-    university: Berzeliusskolan, Linköping
-    time: 1995 - 1996
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
-      Efter gymnasial datautblindning med fokus på IT och programering.
-  - degree: •	Militärtjänstgöring PBV Gruppchef
-    university: INFSS Kvarn/ 7 MekKomp
-    time: 1993 - 1994
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
     details: |
-      Militärtjänstgöring innom armen.
-  - degree: Gymnasieingenjör, Datainriktning
-    university: Berzeliusskolan, Linköping 
-    time: 1992 - 1993
-    details: |
-      "Fjärde året" på tekniskt gymnasum. Fokus på data och el/tele.
-  - degree: Tekniskt gymnasium, Elinriktning
-    university: Berzeliusskolan i Linköping
-    time: 1989 - 1992
-    details:
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
   title: Experiences
   info:
-  - role: Senior Software Test Engineer
-    time: 2019 - Present
-    company: Neonode Inc, Stockholm 
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
     details: |
-      Anstäld som innom Test och QA.
-  - role: Senior Software Test Engineer (Consultant) 
-    time: 2018
-    company: Pondra AB, Stockholm (2018)
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
     details: |
-      Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
-  - role: Senior Software Test Engineer Consultent
-    time: 2010 - 2018
-    company: Generic System Sweden AB, Stockholm
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
     details: |
-      Nytt namn på bolaget och fokus mer på test och test utveckling.
-  - role: Software Engineer
-    time: 2008 - 2010
-    company: Generic Software Solutions Sweden AB, Stockholm
-    details: 
-  - role: Software Engineer
-    time: 2006 - 2008
-    company: xMedia Solutions AB, Norrköping
-    details: 
-  - role: Software Engineer
-    time: 2006
-    company: Skill / IBS, Stockholm
-    details: 
-  - role: Software Engineer
-    time: 1996 - 2005
-    company: IFS R&D - Linköping
-    details: |
-      Praktikplats efter utbildning och jag blev kvar i nästan 10 år.
-      Många roller på ett teknikblog i famkant där utbildning och forskning belv en naturlig del i utvecklings arbetet.  
-  - role: Systemutvecklare
-    time: 1994 - 1995
-    company: InkJET AB - Linköping (1994 - 1995)
-    details: |
-      Första riktiga arbetet efter skola och militärtjänstgöring. 
-      Service av bläckstråleskrivare och utveckling av mjukvara för initegration av skrivare. Hårdvarunära utveckling och en bra start. 
-      Se projektlista för mer information.
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 certifications:
   title: Certifications
   list:
-  - name: ISTQB - Foundation Level Certificate in Software Testing (2018)
-    start: 2018
-    end: 
-    organization: ISTQB
-    credentialid: 
-    credentialurl: istqb.org
-    credentialname: 
-    details: 
-  - name: •	Amatörradiocertifikat
-    start: 2015
+  - name: CV Builder
+    start: 2020
+    end: 2021
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.google.com
+    credentialname: Google
+    details: |
+      Details about cert. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+
+      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+      justo diam viverra velit, sed rhoncus leo leo eu justo.
+      Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Git learning
+    start: 2019
     end:
-    organization: SSA
-    credentialid: SA3LKP
-    credentialurl: https://www.ssa.se
-    credentialname: 
-    details: 
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
+
 projects:
   title: Projects
   intro: >
