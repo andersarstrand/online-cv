@@ -124,7 +124,7 @@ employments:
       Många roller på ett teknikblog i famkant där utbildning och forskning belv en naturlig del i utvecklings arbetet.  
   - role: Systemutvecklare
     time: 1994 - 1995
-    company: InkJET AB - Linköping
+    company: InkJET AB, Linköping
     details: |
       Första riktiga arbetet efter skola och militärtjänstgöring. 
       Service av bläckstråleskrivare och utveckling av mjukvara för initegration av skrivare. Hårdvarunära utveckling och en bra start. 
@@ -141,15 +141,21 @@ experiences:
       Del av utvecklingsteamet för att ta en ny version av Neonode Blocking 3.0 för en 21.5” Demo skärm för kund och CES 2025,  baserat på Neonode’s Blocking Teknologi.
       Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.
       Framtagning och utveckling av ny test och analys utrustning.
-      Framtagning av USB HID brygga för att koppla in touch sensorn till Windows och Android. 
-      Teknologi och verktyg:
+      Framtagning av USB HID brygga för att koppla in touch sensorn till Windows och Android.  
+      Teknologi och verktyg:  
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
 
-  - role: Senior Software Test Engineer (Consultant) 
-    time: 2018
-    company: Pondra AB, Stockholm
+  - title: Neonode Touch Sensor Module PRO 2.0 
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2024-08 - 2025
+    company: Neonode Inc, Stockholm 
     details: |
-      Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
+      Del av utvecklingsteamet för att ta en ny vesrsion av Neonode Touch Sensor Module PRO  baserat på Neonode’s Reflective Teknologi.  
+      Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.  
+      Framtagning och utveckling av ny test och analys utrustning.
+      Teknologi och verktyg:  
+      Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
+      
 
 certifications:
   title: Certifications
