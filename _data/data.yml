@@ -133,21 +133,28 @@ employments:
 experiences:
   title: Uppdrag och projekt
   info:
-  - role: Senior Software Test Engineer
-    time: 2019 - Present
+  - title: Neonode Blocking 3.0 – 21.5” Demo
+    role: Mjukvarutestare, Testutvecklare
+    time: 2024-08 - 2024-12
     company: Neonode Inc, Stockholm 
     details: |
-      Anstäld som innom Test och QA.
+      Del av utvecklingsteamet för att ta en ny version av Neonode Blocking 3.0 för en 21.5” Demo skärm för kund och CES 2025,  baserat på Neonode’s Blocking Teknologi.
+      Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.
+      Framtagning och utveckling av ny test och analys utrustning.
+      Framtagning av USB HID brygga för att koppla in touch sensorn till Windows och Android. 
+      Teknologi och verktyg:
+      Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
+
   - role: Senior Software Test Engineer (Consultant) 
     time: 2018
-    company: Pondra AB, Stockholm (2018)
+    company: Pondra AB, Stockholm
     details: |
       Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
 
 certifications:
   title: Certifications
   list:
-  - name: ISTQB - Foundation Level Certificate in Software Testing (2018)
+  - name: ISTQB - Foundation Level Certificate in Software Testing
     start: 2018
     end: 
     organization: ISTQB
@@ -155,7 +162,7 @@ certifications:
     credentialurl: istqb.org
     credentialname: 
     details: 
-  - name: •	Amatörradiocertifikat
+  - name: Amatörradiocertifikat
     start: 2015
     end:
     organization: SSA
