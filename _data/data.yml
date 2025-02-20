@@ -86,8 +86,8 @@ education:
     time: 1989 - 1992
     details:
 
-experiences:
-  title: Experiences
+employments:
+  title: Anställningar
   info:
   - role: Senior Software Test Engineer
     time: 2019 - Present
@@ -129,6 +129,21 @@ experiences:
       Första riktiga arbetet efter skola och militärtjänstgöring. 
       Service av bläckstråleskrivare och utveckling av mjukvara för initegration av skrivare. Hårdvarunära utveckling och en bra start. 
       Se projektlista för mer information.
+
+experiences:
+  title: Uppdrag och projekt
+  info:
+  - role: Senior Software Test Engineer
+    time: 2019 - Present
+    company: Neonode Inc, Stockholm 
+    details: |
+      Anstäld som innom Test och QA.
+  - role: Senior Software Test Engineer (Consultant) 
+    time: 2018
+    company: Pondra AB, Stockholm (2018)
+    details: |
+      Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
+
 certifications:
   title: Certifications
   list:
@@ -149,33 +164,6 @@ certifications:
     credentialname: 
     details: 
 
-projects:
-  title: Projects
-  intro: >
-    Projekt och uppdrag.
-  assignments:
-  - title: Neonode Blocking 3.0 – 21.5” Demo - 
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-    role: Mjukvarutestare, Testutvecklare
-    time: 2024-08 - 2024-12
-    company: Neonode Inc. Stockholm
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 footer: >
