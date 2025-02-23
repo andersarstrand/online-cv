@@ -95,29 +95,35 @@ employments:
     time: 2019 - Present
     company: Neonode Inc, Stockholm 
     details: |
-      Arbetar med test av mjukvara och inmätningar av prestanda vid framtagning av touch sensorer.   
+      Slutade som konsult arbetar med test av mjukvara och inmätningar av prestanda vid framtagning av touch sensorer.   
+
       Se projektlista för mer information.
   - role: Senior Software Test Engineer (Konsult) 
     time: 2018
     company: Pondra AB, Stockholm
     details: |
-      Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
+      Nytt namn på bolaget (Pondra). Samma roll, inriktning och uppdrag.  
+
       Se projektlista för mer information om uppdrag och projekt.
   - role: Senior Software Test Engineer (Konsult)
     time: 2010 - 2018
     company: Generic System Sweden AB, Stockholm
     details: |
       Nytt namn på bolaget och fokus mer på test och test utveckling.  
+      Uppdrag för: 
+        - Neonode Inc, Stockholm
+        - Arbetsförmedlingen IT, Stockholm
+        - SMHI, Norrköping 
+        - FMW, Enköping
+
       Se projektlista för mer information om uppdrag och projekt.
   - role: Senior Software Engineer (Konsult)
     time: 2008 - 2010
     company: Generic Software Solutions Sweden AB, Stockholm
     details: |
-      Anställd som konsult inom mjukvarutvecking.
+      Anställd som konsult inom mjukvarutvecking.  
       Uppdrag för: 
-        - FMV
-        - SMHI
-        - Neonode
+        - FMW, Enköping
 
       Se projektlista för mer information om uppdrag och projekt.    
 
@@ -128,7 +134,7 @@ employments:
       Anställd som konsult inom mjukvara och systemutvecking.  
       Uppdrag för:
         - Billerud (Project via GAIA System, Norrköping)
-        - FMV (MNE5 & LedSysT)
+        - FMV, Eköping (MNE5 & LedSysT)
 
       Se projektlista för mer information om uppdrag och projekt för den här tiden.    
   - role: Software Engineer (Konsult)
@@ -136,6 +142,7 @@ employments:
     company: Skill / IBS, Stockholm
     details: |
       Anställd som underkonsult för updrag till Billerud för framtagning av nytt produktion, order och ekonomisystem.  
+
       Se projektlista för mer information om uppdrag och projekt för den här tiden.    
 
   - role: Software Engineer
@@ -143,7 +150,10 @@ employments:
     company: IFS R&D, Linköping
     details: |
       Praktikplats efter utbildning och jag blev kvar i nästan 10 år.
-      Många roller på ett teknikblog i famkant där utbildning och forskning belv en naturlig del i utvecklings arbetet.  
+      Många roller på ett teknikbolag i famkant där utbildning och forskning belv en naturlig del i utvecklings arbetet.  
+
+      Se projektlista för mer information om uppdrag och projekt för den här tiden.    
+
   - role: Systemutvecklare
     time: 1994 - 1995
     company: InkJET AB, Linköping
@@ -151,6 +161,14 @@ employments:
       Första riktiga arbetet efter skola och militärtjänstgöring. 
       Service av bläckstråleskrivare och utveckling av mjukvara för initegration av skrivare. Hårdvarunära utveckling och en bra start. 
       Se projektlista för mer information.
+
+  - role: Civilanställd instruktör
+    time: 1994
+    company: INFSS Kvarn
+    details: |
+      Civilanställd instruktör efter min militärtjänstgöring. 
+      Utbildning av stridsfordonspersonal inför BA02
+
 
 experiences:
   title: Uppdrag och projekt
@@ -344,7 +362,65 @@ experiences:
       Teknologi och verktyg:  
       Java, Wms/Wfs, Leaflet, JavaScript, HTML, CSS, REST, Json, XML, NetCDF,  PostgreSQL, PostGIS, GeoData, ANT, Subversion, Eclipse
 
+  - title: MARSUR – Maritime Surveillance / Ledningssystem    
+    public: True
+    role: Systemutvecklare
+    time: 2009 - 2012
+    company: FMV Enköping (Konsult) 
+    details: |
+      Framtagning och design av delar till gemensamt ledningssystem inom MARSUR (Maritime Surveillance). Detta är baserat på SOA och i linje med Försvarsmaktens Ledningssystem (FMLS) för att verka i en federerad internationell miljö.
 
+      Teknologi och verktyg:  
+      Java, Ontologier, RDF, Jena, PostgreSQL, REST, XML, PKI, x509, Swing, SOAP, WS, VMS, GeoData, Maven, Subversion, Git
+
+  - title: Sucbas - Sea Surveillance Co-Operartion Baltic Sea / Ledningssystem    
+    public: True
+    role: Systemutvecklare
+    time: 2009 - 2012
+    company: FMV Enköping (Konsult) 
+    details: |
+      Framtagning och design av delar till nytt ledningssystem för Sea Surveillance Co-Operartion Baltic Sea (SUCBAS, http://sucbas.org). Detta är baserat på ontologier och öppna standarder för att koppla ihop informationskällor för att få en heltäckande lägesbild. Utveckling av nya klienter för att presentera och hantera informationen.
+
+      Teknologi och verktyg:  
+      Java, Ontologier, RDF, Jena, PostgreSQL, REST, XML, PKI, x509, Swing, SOAP, WS, VMS, GeoData, PostGis Maven, Subversion, Git
+
+  - title: MNE5 - Multinational Experiment 5 / Ledningssystem  
+    public: True
+    role: Systemutvecklare
+    time: 2007 - 2009
+    company: FMV Enköping (Konsult) 
+    details: |
+      Framtagning av mjukvara och teknik för att stödja den tekniska infrastrukturen i MNE5 (Multinational Experiment 5). Ett SOA-baserat system byggt på Open Source. Målet var att uppnå datafederering utan att behöva använda centrala servrar.
+
+      Teknologi och verktyg:  
+      Java, PostgreSQL, WS, SOAP, Windows, JSP, Swing, Apache Tomcat, x509, PKI, TLS/SSL, OpenSSL, SOA,LDAP, Maven, Subversion
+
+  - title: LedSystT Fas 2 – Ledningssystem  
+    public: True
+    role: Systemutvecklare
+    time: 2007 - 2009
+    company: FMV Enköping (Konsult) 
+    details: |
+      Framtagning av teknik och design för en experiment- & prototypplattform för utveckling av komponenter för realisering och testning av Försvarsmaktens ledningssystem (FMLS).
+
+      Teknologi och verktyg:
+      Java, MySql, PostgreSQL, SOAP, WS, WSDL, XSD, XML, VMware, Windows, Unix (Fedora), Maven, CruiseControl (CI, CB), JSP, Swing
+
+
+  - title: BOND - Ekonomisystem & Produktionssystem  
+    public: True
+    role: Systemutvecklare, Ramverksutvecklare, Teamleader 
+    time: 2006 - 2007
+    company: GAIA System, Norrköping (Konsult) 
+    details: |
+      Uppdrag för Billerud Norrköping.  
+      Framtagning av nytt marknadssystem för hela Billerudkoncernen.  
+      Ansvarig för design och utveckling av ny faktureringsmodul.   
+      Ansvarig för design och utveckling av Client/Server-ramverket.  
+      Ansvarig för design och utveckling av UI-komponenter och rapportverktyg.   
+
+      Teknologi och verktyg:  
+      .Net, C#, MS SQL-Server, WS, SOAP
 
 certifications:
   title: Certifications
