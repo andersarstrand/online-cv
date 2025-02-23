@@ -115,10 +115,10 @@ employments:
     details: |
       Anställd som konsult inom mjukvarutvecking.
       Uppdrag för: 
-      - FMV
-      - SMHI
-      - Neonode
-      
+        - FMV
+        - SMHI
+        - Neonode
+
       Se projektlista för mer information om uppdrag och projekt.    
 
   - role: Software Engineer (Konsult)
@@ -127,8 +127,8 @@ employments:
     details: |
       Anställd som konsult inom mjukvara och systemutvecking.  
       Uppdrag för:
-      - Billerud (Project via GAIA System, Norrköping)
-      - FMV (MNE5 & LedSysT)
+        - Billerud (Project via GAIA System, Norrköping)
+        - FMV (MNE5 & LedSysT)
 
       Se projektlista för mer information om uppdrag och projekt för den här tiden.    
   - role: Software Engineer (Konsult)
