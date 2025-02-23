@@ -149,7 +149,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
 
   - title: Neonode Touch Sensor Module PRO 2.0 
-    public: False
+    hide: True
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-08 - 2025
     company: Neonode Inc, Stockholm 
