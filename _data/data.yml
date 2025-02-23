@@ -48,7 +48,9 @@ sidebar:
     info:
     - item: Technology
       link:
-    - item: Cocking
+    - item: Home automation
+      link:
+    - item: Cooking
       link:
     - item: Mixology
       link: 
