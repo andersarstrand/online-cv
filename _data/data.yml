@@ -136,6 +136,7 @@ experiences:
   title: Uppdrag och projekt
   info:
   - title: Neonode Core / Blocking 3.0 – 21.5” Demo
+    public: True
     role: Mjukvarutestare, Testutvecklare
     time: 2024-08 - 2024-12
     company: Neonode Inc, Stockholm 
@@ -149,7 +150,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
 
   - title: Neonode Touch Sensor Module PRO 2.0 
-    hide: True
+    public: False
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-08 - 2025
     company: Neonode Inc, Stockholm 
@@ -162,6 +163,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
       
   - title: Neonode Touch Sensor Module Firmware / I2C Fast Speed
+    public: true
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-10 - 2025
     company: Neonode Inc, Stockholm 
