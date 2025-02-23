@@ -236,6 +236,95 @@ experiences:
       Teknologi och verktyg:  
       GIT, Jenkins, Jira, Confluense, Excel, Windows, Mac, Linux, C, C#, Bash,Scrum, CI, 
 
+  - title: Riktning och Stöd – Gemensam Test
+    public: True
+    role: Teststrateg 
+    time: 2017-09 - 2017-11
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Ansvarig för framtagning och överlämning av ny teststrategi för AF. Överlämning och utbildning av ”mål och visioner för sektionen” till ny sektionschef. Överlämning av arbete och ansvar inom enheten ”Riktning och stöd” till ny sektionschef för sektionen ”Gemensam test”.
+
+      Teknologi och verktyg:  
+      Agil Test, Scrum, Office 365, Jira, Confluence
+
+  - title: Riktning och Stöd – Gemensam Test
+    public: True
+    role: Sektionschef (TF) 
+    time: 2016-09 - 2017-09
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Sektionschef (TF) för sektion som arbetade med Teknisktestning, Testdata hantering, Tillgänglighetstester, Testautomation, Testmiljöer samt teststrategi. Drivit arbeta med vision och strategi inom enheten (Riktning och Stöd) som en del av (AFs) Förnyelseresa 2021 samt transformationen av sektionen för att arbeta mer primärt med utbildning och strategi. Ansvarig för uppstart och framtagning av ny teststrategi för AF. Ansvarig för framtagning av sektionens verksamhetsplan.
+
+      Teknologi och verktyg:  
+      Agil Test, Scrum, Office 365, Jira, Confluence
+
+  - title: TTC (Tekniskt Test Centrum) 
+    public: True
+    role: Teamleader / Prestandatestare
+    time: 2015-09 - 2016-10
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Utveckling av metoder för prestandatest. Utbildning i Teknisktestning och prestandatest. Framtagning av mål och metod för ny ”test-organisation” som en del i AFs Förnyelseresa 2022. Ansvar för daglig drift i ”Prestandatest gruppen”.
+
+      Teknologi och verktyg:  
+      Oracle Application Testing Suite, Visual Studio Ultimate, HP Loadrunner, jConsol, Visual VM, Windows Performace Monitor, jMeter, Fiddler, SoapUI, GIT, Jenkins
+
+  - title: TTC (Tekniskt Test Centrum) 
+    public: True
+    role: Prestandatestare / Testutvecklare
+    time: 2014-09 - 2015-09
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Framtagning och genomförande av prestandatestet för validering och godkännande inför releaser och leveranser. Support och stöd till olika projekt som behöver hjälp och rekommendationer angående system prestanda.
+
+      Teknologi och verktyg:  
+      Oracle Application Testing Suite, Visual Studio Ultimate, HP Loadrunner, jConsol, Visual VM, Windows Performace Monitor, jMeter, Fiddler, WireShark, GIT
+
+  - title: FoAA - Systemstöd Anskaffande Arbetsförmedlingstjänster  
+    public: True
+    role: Prestandatestare / Testutvecklare
+    time: 2014-01 - 2015-01
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Framtagning av prestandatestet för validering av prestanda och svarstider. Profilering och analys av kod för att förbättra prestanda. Detta vid utvecklig och förvaltning av Systemstöd Anskaffande Arbetsförmedlingstjänster. 
+
+      Teknologi och verktyg:  
+      Visual Studio Ultimate, Visual studio Web Test, Team Foundation Server, IIS, ClearCase, ClearQuest, C#, .Net, Oracle, SQL, SQL Developer, HTML, JavaScript, CSS, XML 
+
+  - title: SAA - Systemstöd Anskaffande Arbetsförmedlingstjänster   
+    public: True
+    role: Prestandatestare / Testutvecklare
+    time: 2013-02 - 2014-01
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Framtagning av prestandatest för validering av prestanda och svarstider. Profilering och analys av kod för att förbättra prestanda. Detta vid utvecklig av ny funktionalitet för webblösning för Systemstöd Anskaffande Arbetsförmedlingstjänster. 
+
+      Teknologi och verktyg:  
+      Visual Studio Ultimate, Visual studio Web Test, Team Foundation Server, IIS, ClearCase, ClearQuest, C#, .Net, Oracle, SQL, SQL Developer, HTML, JavaScript, CSS, XML
+
+  - title: EKI - Modernisering AIS-F Stordatormiljö   
+    public: True
+    role: Prestandatestare / Testutvecklare
+    time: 2013-02 - 2014-01
+    company: Arbetsförmedlingen IT (Konsult) 
+    details: |
+      Framtagning och vidareutveckling av prestanda tester för validering av prestanda och svarstider. Detta vid utveckling av ett middleware/backend för att ersätta ett stordatormiljösysstem.
+
+      Teknologi och verktyg:  
+      Oracle Application Testing Suit (OATS), OpenScript, Java, Maven, Eclipse, ClearCase, ClearQuest, SQL Developer, SQL, Oracle, jStat, JMon
+
+  - title: SMHI Vattenwebben   
+    public: True
+    role: Prestandatestare / Testutvecklare
+    time: 2012 - 2013
+    company: SMHI Norrköping (Konsult) 
+    details: |
+      Framtagning och vidareutveckling av webb-system (Vattenwebb) för att tillgängliggör information om sötvatten och kustvatten i Sverige. Även utveckling verktyg för utvärdering av hydrologiska modeller.
+
+      Teknologi och verktyg:  
+      Java, Wms/Wfs, Leaflet, JavaScript, HTML, CSS, REST, Json, XML, NetCDF,  PostgreSQL, PostGIS, GeoData, ANT, Subversion, Eclipse
+
+
 
 certifications:
   title: Certifications
