@@ -163,7 +163,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
       
   - title: Neonode Touch Sensor Module Firmware / I2C Fast Speed
-    public: true
+    public: False
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-10 - 2025
     company: Neonode Inc, Stockholm 
@@ -175,6 +175,7 @@ experiences:
       I2C, HIL, CI, Robot Framework, Agil testing, System Verification.
 
   - title: Neonode Core / Blocking 2.5  
+    public: False
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-09 - 2025
     company: Neonode Inc, Stockholm 
@@ -188,6 +189,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
 
   - title: Neonode Touch Sensor Module V2 / PRO & Firmware 3.x
+    public: True
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2023-07 - 2025
     company: Neonode Inc, Stockholm 
@@ -198,6 +200,7 @@ experiences:
       Inbyggt system, RTOS, I2C, SPI, ASIC, C++, Python, Ci, Jenkins, Robot framework, test automation. 
 
   - title: Neonode Core / Blocking 2.0 & 2.1
+    public: True
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2021-01 - 2021-09
     company: Neonode Inc, Stockholm 
@@ -209,8 +212,8 @@ experiences:
       Teknologi och verktyg:  
       C++, Python, GIT, I2C, SCRUM, Night Vistion, SPI , ASIC 
 
-
   - title: Neonode Touch Sensor Module V1 & Firmware 2.x 
+    public: True
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2019-05 - 2023-05
     company: Neonode Inc, Stockholm 
@@ -222,6 +225,7 @@ experiences:
       GIT, Jenkins, Jira, Confluense, Excel, Windows, Linux, Arduino, RMS, TMS, C, CPP, C#, Bash, Python, Juphyter Notebook, Numpy, MatPlotLib, HID, USB, I2C, SPI,   Scrum, CI, A-Spice, TDD, RDD, 
 
   - title: Neonode zForce Air Sensor & Firmware 1.x
+    public: True
     role: Mjukvarutestare inbyggda system
     time: 2019-05 - 2023-05
     company: Neonode Inc, Stockholm 
