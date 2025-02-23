@@ -95,29 +95,49 @@ employments:
     time: 2019 - Present
     company: Neonode Inc, Stockholm 
     details: |
-      Anstäld som innom Test och QA.
-  - role: Senior Software Test Engineer (Consultant) 
+      Arbetar med test av mjukvara och inmätningar av prestanda vid framtagning av touch sensorer.   
+      Se projektlista för mer information.
+  - role: Senior Software Test Engineer (Konsult) 
     time: 2018
     company: Pondra AB, Stockholm
     details: |
       Nytt namn på bolaget (Pondra). Samma roll och uppdrag.
-  - role: Senior Software Test Engineer (Consultant)
+      Se projektlista för mer information om uppdrag och projekt.
+  - role: Senior Software Test Engineer (Konsult)
     time: 2010 - 2018
     company: Generic System Sweden AB, Stockholm
     details: |
-      Nytt namn på bolaget och fokus mer på test och test utveckling.
-  - role: Senior Software Engineer (Consultant)
+      Nytt namn på bolaget och fokus mer på test och test utveckling.  
+      Se projektlista för mer information om uppdrag och projekt.
+  - role: Senior Software Engineer (Konsult)
     time: 2008 - 2010
     company: Generic Software Solutions Sweden AB, Stockholm
-    details: 
-  - role: Software Engineer (Consultant)
+    details: |
+      Anställd som konsult inom mjukvarutvecking.
+      Uppdrag för: 
+      - FMV
+      - SMHI
+      - Neonode
+      
+      Se projektlista för mer information om uppdrag och projekt.    
+
+  - role: Software Engineer (Konsult)
     time: 2006 - 2008
     company: xMedia Solutions AB, Norrköping
-    details: 
-  - role: Software Engineer (Consultant)
+    details: |
+      Anställd som konsult inom mjukvara och systemutvecking.  
+      Uppdrag för:
+      - Billerud (Project via GAIA System, Norrköping)
+      - FMV (MNE5 & LedSysT)
+
+      Se projektlista för mer information om uppdrag och projekt för den här tiden.    
+  - role: Software Engineer (Konsult)
     time: 2006
     company: Skill / IBS, Stockholm
-    details: 
+    details: |
+      Anställd som underkonsult för updrag till Billerud för framtagning av nytt produktion, order och ekonomisystem.  
+      Se projektlista för mer information om uppdrag och projekt för den här tiden.    
+
   - role: Software Engineer
     time: 1996 - 2005
     company: IFS R&D, Linköping
