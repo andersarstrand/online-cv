@@ -135,7 +135,7 @@ employments:
 experiences:
   title: Uppdrag och projekt
   info:
-  - title: Neonode Blocking 3.0 – 21.5” Demo
+  - title: Neonode Core / Blocking 3.0 – 21.5” Demo
     role: Mjukvarutestare, Testutvecklare
     time: 2024-08 - 2024-12
     company: Neonode Inc, Stockholm 
@@ -143,11 +143,13 @@ experiences:
       Del av utvecklingsteamet för att ta en ny version av Neonode Blocking 3.0 för en 21.5” Demo skärm för kund och CES 2025,  baserat på Neonode’s Blocking Teknologi.
       Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.
       Framtagning och utveckling av ny test och analys utrustning.
-      Framtagning av USB HID brygga för att koppla in touch sensorn till Windows och Android.  
+      Framtagning av USB HID brygga för att koppla in touch sensorn till Windows och Android.
+
       Teknologi och verktyg:  
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
 
   - title: Neonode Touch Sensor Module PRO 2.0 
+    public: False
     role: Mjukvarutestare, Testutvecklare, Release ansvarig
     time: 2024-08 - 2025
     company: Neonode Inc, Stockholm 
@@ -155,9 +157,79 @@ experiences:
       Del av utvecklingsteamet för att ta en ny vesrsion av Neonode Touch Sensor Module PRO  baserat på Neonode’s Reflective Teknologi.  
       Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.  
       Framtagning och utveckling av ny test och analys utrustning.
+
       Teknologi och verktyg:  
       Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
       
+  - title: Neonode Touch Sensor Module Firmware / I2C Fast Speed
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2024-10 - 2025
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för att verifiera ändring i hastigheten på I2C bussen. Mål är att öka från 100 kHz till 400kHz. 
+      Framtagning av testplan, testutrustning samt uppgradering av existerande utveckling och testhårdvara. 
+
+      Teknologi och verktyg:  
+      I2C, HIL, CI, Robot Framework, Agil testing, System Verification.
+
+  - title: Neonode Core / Blocking 2.5  
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2024-09 - 2025
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för att ta en ny generation av ”Neonode’s Blocking Teknologi”.
+      Framtagning av Demo enheter. Ny hårdvara, uppdaterad mjukvara samt nya algoritmer.
+
+      Framtagning och utveckling av ny testutrustning. Framtagning och utveckling av I2C-till-HID brygga för integration. Framtagning av Testsplaner samt genomförande av test. Inmätning och analys av prestanda, Verifiering av systemkrav. Ansvarig för test av mjukvara.
+
+      Teknologi och verktyg:  
+      Inbyggt system, RTOS, I2C, SPI, ASIC, SOC, C++, Python, C#, Automatiserade tester. Inmätning av prestanda. 
+
+  - title: Neonode Touch Sensor Module V2 / PRO & Firmware 3.x
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2023-07 - 2025
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för anpassning av hårdvara och mjukvara för byte av MCU och ASICs för Neonode Touch Sensor Module V2 / PRO. Samt anpassning inför licensering av hårdvara och inbyggd mjukvara. Ansvarig för test av mjukvara och hårdvara.
+
+      Teknologi och verktyg:  
+      Inbyggt system, RTOS, I2C, SPI, ASIC, C++, Python, Ci, Jenkins, Robot framework, test automation. 
+
+  - title: Neonode Core / Blocking 2.0 & 2.1
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2021-01 - 2021-09
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för att ta fram ny version av Neonode’s touch lösning baserad på "Blocking teknologin”.
+
+      Framtagning av testplaner och inmätning av ny hård och mjukvara. Framtagning av ny testutrustning och verktyg för analys. Analys av inmätningar. Verifiering av systemkrav. 
+
+      Teknologi och verktyg:  
+      C++, Python, GIT, I2C, SCRUM, Night Vistion, SPI , ASIC 
+
+
+  - title: Neonode Touch Sensor Module V1 & Firmware 2.x 
+    role: Mjukvarutestare, Testutvecklare, Release ansvarig
+    time: 2019-05 - 2023-05
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för inbyggd mjukvara för Neonode´s "Touch". Fokus är på "nästa generations" av den inbyggda mjukvaran. Mål är ett nytt realtidssytem och möjlighet till A-SPICE certifikering. Fokus på utveckling och framtagning av krav och test system (RMS & TSM). 
+      Framtagning av CI och HWIL (Hardware in the loop) för automatiska reggretions tester. Mål är full spårbarhet från krav, till kod till test och färdig mjukvara. Fokus på utvekling och kvalité. Sammarbete med produktioen av våra sensorer och framtagning av förbättrad analys mjukvara för inmäting av sensorerna s prestanda. Anvarig för kvalitén på mjukvaran. 
+
+      Teknologi och verktyg:  
+      GIT, Jenkins, Jira, Confluense, Excel, Windows, Linux, Arduino, RMS, TMS, C, CPP, C#, Bash, Python, Juphyter Notebook, Numpy, MatPlotLib, HID, USB, I2C, SPI,   Scrum, CI, A-Spice, TDD, RDD, 
+
+  - title: Neonode zForce Air Sensor & Firmware 1.x
+    role: Mjukvarutestare inbyggda system
+    time: 2019-05 - 2023-05
+    company: Neonode Inc, Stockholm 
+    details: |
+      Del av utvecklingsteamet för inbyggd mjukvara för Neonode´s "Touch" sensorer. Ansvarig för system och integrations tester av inbyggd mjukvara. Test och releast ansvarig för inbyggd mjukvara och verktyg för utveckling och integration. Fokus på utveckling, utbilding och system stöd.
+      Under denna perioden också tekniskt stöd för sälj organisatione och kundsupport. 
+
+      Teknologi och verktyg:  
+      GIT, Jenkins, Jira, Confluense, Excel, Windows, Mac, Linux, C, C#, Bash,Scrum, CI, 
+
 
 certifications:
   title: Certifications
