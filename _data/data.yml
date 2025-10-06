@@ -60,7 +60,7 @@ career-profile:
   summary: |
     Senior systemintegratör med gedigen teknisk bakgrund som utvecklare och testare.
 
-    Jag trivs bäst med att arbeta i gränslandet hårdvara - mjukvara samt med system och integration.    
+    Jag trivs bäst med att arbeta i gränslandet hårdvara - mjukvara samt med system och integration. 
     Det senaste decenniet har fokus legat på utveckling och test av inbyggda system och integration, men även framtagande av analys- och testverktyg.  
     
     Min samlade erfarenhet gör att jag snabbt förstår komplexa system och på så vis kan optimera mina insatser där de ger mest effekt. Efter att ha arbetat många år i utvecklingsteam i olika former vill jag säga att utöver mina breda tekniska kunskaper är en av mina styrkor kommunikation med kunder, projektledare och utvecklare. 
@@ -98,6 +98,7 @@ employments:
       QA och ansvarig för test och integration av mjukvara och inmätningar av prestanda vid framtagning av touchsensorer för inbyggda system.   
 
       Se projektlista för mer information.
+      
   - role: Senior Software Engineer (Konsult) & Senior Software Test Engineer (Konsult) 
     time: 2008 - 2018
     company: Generic System Sweden AB / Pondra AB, Stockholm
@@ -107,7 +108,7 @@ employments:
         - Neonode Inc, Stockholm
         - Arbetsförmedlingen IT, Stockholm
         - SMHI, Norrköping 
-        - FMW, Enköping
+        - FMV, Enköping
 
       Se projektlista för mer information om uppdrag och projekt.
 
