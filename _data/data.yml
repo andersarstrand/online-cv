@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Anders Årstrand
-  tagline: Senior Software Test Engineer 
+  tagline: Senior Software Test Engineer <br> Senior System Integration Engineer
   avatar: anders.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -103,6 +103,14 @@ employments:
       Framtagning  och utveckling av HWIL (Hardware In The Loop) och test-automation som del av CI system. Utveckling av metod för prestanda mätning samt framtagning av analysmjukvara.   
       Kund och sälj-support för existerande och nya produkter.   
 
+      Teknologi, språk och verktyg:  
+      I2C, SPI, USB, HID, ASN.1  
+      ASIC, SoC, STM32, Arduino, Raspberry PI  
+      CAD, 3D Printning, HWIL  
+      Robot Framework, Jenkins, CI, GIT  
+      Python, C, C++, C#  
+      RMS, TMS, Jira  
+
       Se projektlista för mer information.
 
   - role: Senior Software Engineer (Konsult) & Senior Software Test Engineer (Konsult) 
@@ -125,7 +133,7 @@ employments:
       Konsult inom mjukvara och systemutvecking.  
       Uppdrag för:
         - Billerud (Project via GAIA System, Norrköping)
-        - FMV, Eköping (MNE5 & LedSysT)
+        - FMV, Enköping (MNE5 & LedSysT)
 
       Se projektlista för mer information om uppdrag och projekt för den här tiden. 
 
