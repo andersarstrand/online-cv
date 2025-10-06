@@ -95,10 +95,16 @@ employments:
     time: 2019 - Present
     company: Neonode Inc, Stockholm 
     details: |
-      QA och ansvarig för test och integration av mjukvara och inmätningar av prestanda vid framtagning av touchsensorer för inbyggda system.   
+      QA och Senior testutvecklare med fokus på inbyggda system och systemintegration.
+
+      Del av utvecklingsteamet för framtagning av optiska touch lösningar.  
+      Ansvar för test av mjukvara och integration mot andra system.  
+      Ansvar för release av mjukvara för inbyggda system och tillhörande verktyg.  
+      Framtagning  och utveckling av HWIL (Hardware In The Loop) och test-automation som del av CI system. Utveckling av metod för prestanda mätning samt framtagning av analysmjukvara.   
+      Kund och sälj-support för existerande och nya produkter.   
 
       Se projektlista för mer information.
-      
+
   - role: Senior Software Engineer (Konsult) & Senior Software Test Engineer (Konsult) 
     time: 2008 - 2018
     company: Generic System Sweden AB / Pondra AB, Stockholm
