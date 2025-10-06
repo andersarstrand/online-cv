@@ -95,21 +95,14 @@ employments:
     time: 2019 - Present
     company: Neonode Inc, Stockholm 
     details: |
-      Slutade som konsult arbetar med test av mjukvara och inmätningar av prestanda vid framtagning av touch sensorer.   
+      QA och ansvarig för test och integration av mjukvara och inmätningar av prestanda vid framtagning av touchsensorer för inbyggda system.   
 
       Se projektlista för mer information.
-  - role: Senior Software Test Engineer (Konsult) 
-    time: 2018
-    company: Pondra AB, Stockholm
+  - role: Senior Software Engineer (Konsult) & Senior Software Test Engineer (Konsult) 
+    time: 2008 - 2018
+    company: Generic System Sweden AB / Pondra AB, Stockholm
     details: |
-      Nytt namn på bolaget (Pondra). Samma roll, inriktning och uppdrag.  
-
-      Se projektlista för mer information om uppdrag och projekt.
-  - role: Senior Software Test Engineer (Konsult)
-    time: 2010 - 2018
-    company: Generic System Sweden AB, Stockholm
-    details: |
-      Nytt namn på bolaget och fokus mer på test och test utveckling.  
+      Konsult inom test och mjukvarutvecking.  
       Uppdrag för: 
         - Neonode Inc, Stockholm
         - Arbetsförmedlingen IT, Stockholm
@@ -117,31 +110,23 @@ employments:
         - FMW, Enköping
 
       Se projektlista för mer information om uppdrag och projekt.
-  - role: Senior Software Engineer (Konsult)
-    time: 2008 - 2010
-    company: Generic Software Solutions Sweden AB, Stockholm
-    details: |
-      Anställd som konsult inom mjukvarutvecking.  
-      Uppdrag för: 
-        - FMW, Enköping
-
-      Se projektlista för mer information om uppdrag och projekt.    
 
   - role: Software Engineer (Konsult)
     time: 2006 - 2008
     company: xMedia Solutions AB, Norrköping
     details: |
-      Anställd som konsult inom mjukvara och systemutvecking.  
+      Konsult inom mjukvara och systemutvecking.  
       Uppdrag för:
         - Billerud (Project via GAIA System, Norrköping)
         - FMV, Eköping (MNE5 & LedSysT)
 
-      Se projektlista för mer information om uppdrag och projekt för den här tiden.    
+      Se projektlista för mer information om uppdrag och projekt för den här tiden. 
+
   - role: Software Engineer (Konsult)
     time: 2006
     company: Skill / IBS, Stockholm
     details: |
-      Anställd som underkonsult för updrag till Billerud för framtagning av nytt produktion, order och ekonomisystem.  
+      Underkonsult för uppdrag till Billerud för framtagning av nytt produktions-, order- och ekonomisystem.  
 
       Se projektlista för mer information om uppdrag och projekt för den här tiden.    
 
@@ -149,8 +134,7 @@ employments:
     time: 1996 - 2005
     company: IFS R&D, Linköping
     details: |
-      Praktikplats efter utbildning och jag blev kvar i nästan 10 år.
-      Många roller på ett teknikbolag i famkant där utbildning och forskning belv en naturlig del i utvecklings arbetet.  
+      Programmerare/utvecklare i flera olika roller främst med plattformsutveckling.  
 
       Se projektlista för mer information om uppdrag och projekt för den här tiden.    
 
@@ -158,15 +142,14 @@ employments:
     time: 1994 - 1995
     company: InkJET AB, Linköping
     details: |
-      Första riktiga arbetet efter skola och militärtjänstgöring. 
-      Service av bläckstråleskrivare och utveckling av mjukvara för initegration av skrivare. Hårdvarunära utveckling och en bra start. 
+      Service av bläckstråleskrivare och utveckling av mjukvara för integration av skrivare. Hårdvarunära utveckling. 
       Se projektlista för mer information.
 
   - role: Civilanställd instruktör
     time: 1994
     company: INFSS Kvarn
     details: |
-      Civilanställd instruktör efter min militärtjänstgöring. 
+      Civilanställd instruktör efter militärtjänstgöring. 
       Utbildning av stridsfordonspersonal inför BA02
 
 
